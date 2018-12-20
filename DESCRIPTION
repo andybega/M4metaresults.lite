@@ -1,0 +1,15 @@
+Package: M4metaresults.lite
+Title: Trained Model File For The M4metalearning Model
+Version: 0.1.0
+Authors@R: 
+    person(given = "Andreas",
+           family = "Beger",
+           role = c("aut", "cre"),
+           email = "adbeger@gmail.com",
+           comment = c(ORCID = "0000-0003-1883-3169"))
+Description: A lightweight version of M4metaresults that only includes the 
+  trained model file neccessary to use the M4metalearning model and skips the 
+  lazy load step during install.
+License: CC0
+Encoding: UTF-8
+RoxygenNote: 6.1.1
